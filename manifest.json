@@ -1,0 +1,9 @@
+{
+  "name": "Wa9ti PRO",
+  "short_name": "Wa9ti",
+  "start_url": "/wa9ti-pro/",
+  "display": "standalone",
+  "background_color": "#0a0a12",
+  "theme_color": "#8b5cff",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
